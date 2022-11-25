@@ -21,7 +21,7 @@ pip install -U pyppeteer
 ```
 * or, use our [requirements.txt](UploadDownloadTool/requirements.txt):
 ```
-pip install -r [requirements.txt]
+pip install -r requirements.txt
 ```
 3) run GUI
 ```
