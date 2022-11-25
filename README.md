@@ -1,7 +1,7 @@
-# GUI Tool for Computing DynamicFC
+# GUI Tool for uploading & downloading structural data
 
 
-GUI for uploading & downloading structural data, based on python.
+UD v1.0 for uploading & downloading structural data, based on python.
 
 
 -----
