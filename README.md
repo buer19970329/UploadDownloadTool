@@ -9,9 +9,6 @@ UD v1.0 for uploading & downloading structural data, based on python.
 This repository contains:
 
 # 1. GUI tool
-```
-For people who don't enjoy coding. ˃͜˂
-```
 
 **Step:**
 1) [Python environment](https://www.python.org/)
@@ -39,7 +36,7 @@ Uploader:
             - Account File: (Two-column file (recommed *.csv) that is seperated by commas (,). First column is account id; the second is password.)
 * Optional:
             - Subject infomation: (Two-column file that is seperated by commas.Set the first row as columns names ['age','sex'].)
-              But I suggest that you can just leave it empty :)
+              But I suggest that you can just leave it empty ˃͜˂
 
 ```
 ```
